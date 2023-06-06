@@ -1,0 +1,10 @@
+.fontiH{
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
